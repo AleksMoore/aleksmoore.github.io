@@ -67,7 +67,7 @@ align-items: flex-start;
 align-content: space-around; 
 flex-wrap: wrap; 
 flex-direction: row;}
-.item {margin: 0 43px; max-width: 320px;}
+.item {margin: 0 43px 17px; max-width: 320px;}
 input[type=checkbox], input[type=radio] {box-sizing: border-box;}
 .item_input {display: none;}
 .item_card {margin:0 0 17px;}
