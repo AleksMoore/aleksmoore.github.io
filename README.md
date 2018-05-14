@@ -1,2 +1,2 @@
-Выполнение тестового задание FunBox. Фронтенд-разработчик (HTML/CSS)<br>
+Flexbox + БЭМ<br>
 <a href="https://aleksmoore.github.io/">Ссылка</a>
