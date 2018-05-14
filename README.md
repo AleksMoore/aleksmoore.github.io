@@ -1,2 +1,2 @@
 Flexbox + БЭМ<br>
-<a href="https://aleksmoore.github.io/">Ссылка</a>
+<a href="https://flexbem-aleksmoore.github.io/">Ссылка</a>
