@@ -132,13 +132,6 @@ hr{
 	width:100%; 
 	max-width:1280px; 
 	color:#fff;
-	padding:0 40px;
-	}
-@media(max-width:768px){
-		.b-main__content {
-			padding:0;
-		}
-	
 	}
 	
 .b-main__title {
