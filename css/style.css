@@ -129,7 +129,7 @@ hr{
 	}
 	
 .b-main__content {
-	width:100%; 
+	width:1200px; 
 	max-width:1280px; 
 	color:#fff;
 	}
@@ -150,7 +150,7 @@ hr{
 	display: -ms-flex;
 	display: -o-flex;
 	display: flex; 
-	justify-content:center; 
+	justify-content:space-around; 
 	align-items: flex-start; 
 	align-content: space-around; 
 	flex-wrap: wrap; 
@@ -158,7 +158,7 @@ hr{
 	}
 	
 .b-card__item {
-	margin: 0 43px 17px; 
+	margin: 0 20px 17px; 
 	max-width: 320px;
 	}
 	
