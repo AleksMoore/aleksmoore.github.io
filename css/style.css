@@ -134,6 +134,12 @@ hr{
 	color:#fff;
 	padding:0 40px;
 	}
+@media(max-width:768px){
+		.b-main__content {
+			padding:0;
+		}
+	
+	}
 	
 .b-main__title {
 	font-size:36px; 
